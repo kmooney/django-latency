@@ -10,6 +10,6 @@ setup(
     url='http://pypi.python.org/pypi/django-latency/',
     license='LICENSE.txt',
     description='Destroy the performance of your site (for testing reasons!) with django-latency!',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     install_requires=[]
 )
